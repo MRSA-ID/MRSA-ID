@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRSA-ID&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-ID&layout=compact)
+
+
