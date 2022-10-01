@@ -1,5 +1,6 @@
-[![@mrsa's Holopin board](https://holopin.io/api/user/board?user=mrsa)](https://holopin.io/@mrsa)
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+[![@mrsa's Holopin board](https://holopin.io/api/user/board?user=mrsa)](https://holopin.io/@mrsa)
 
 ## 🚀 About Me
 
